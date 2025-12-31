@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Erick%20Jim%C3%A9nez%20Anaya&fontSize=42&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&center=true&vCenter=true&width=800&lines=Systems+Engineer;Junior+Linux+Sysadmin;Rocky+Linux+Focus;Hands-on+Linux+Administration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&center=true&vCenter=true&width=800&lines=Systems+Engineer;Junior+Linux+Sysadmin;Rocky+Linux" />
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
 
 ---
 
-## 🧑‍💻 About me
-🧑‍💻 **Systems Engineer**  
-🐧 **Junior Linux Sysadmin**
+## About me
+**Systems Engineer**  
+**Junior Linux Sysadmin**
 
 I focus on Linux system administration with hands-on practice, mainly using **Rocky Linux** in lab and work environments.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 </p>
@@ -35,15 +35,15 @@ I focus on Linux system administration with hands-on practice, mainly using **Ro
 
 ---
 
-## 📂 What you will find here
-- 📓 Linux administration notes and labs
-- 🧰 Bash scripts for sysadmin tasks
-- 🖥️ Virtualization and infrastructure practice
-- 📄 Technical documentation
+## What you will find here
+- Linux administration notes and labs
+- Bash scripts for sysadmin tasks
+- Virtualization and infrastructure practice
+- Technical documentation
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Daily Linux practice
 - Improve English for IT environments
 - Junior Linux / Sysadmin role
@@ -52,7 +52,7 @@ I focus on Linux system administration with hands-on practice, mainly using **Ro
 
 ---
 
-## 🐍 Contributions Snake
+## Contributions Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickJmzAnaya/ErickJmzAnaya/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickJmzAnaya/ErickJmzAnaya/output/snake.svg" />
