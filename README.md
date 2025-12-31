@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Erick Jiménez
 
-<!--
-**ErickJmzAnaya/ErickJmzAnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Systems Engineer  
+🐧 Junior Linux Sysadmin  
 
-Here are some ideas to get you started:
+I focus on Linux system administration with hands-on practice, mainly using Rocky Linux in lab and work environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- Linux administration (Rocky Linux, Ubuntu)
+- User and permission management (ACLs)
+- Systemd and service management
+- SSH configuration and basic hardening
+- Networking fundamentals
+- Bash scripting (basic)
+- Git & GitHub
+- Virtualization (KVM, LXD)
+
+---
+
+## 📂 What you will find here
+- Linux administration notes and labs
+- Bash scripts for sysadmin tasks
+- Virtualization and infrastructure practice
+- Technical documentation
+
+---
+
+## 🎯 Current Focus
+- Daily Linux practice
+- Improve English for IT environments
+- Junior Linux / Sysadmin role
+
+📍 Mexico
